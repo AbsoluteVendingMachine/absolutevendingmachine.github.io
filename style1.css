@@ -1,7 +1,4 @@
-style { 
-    margin: 0; 
-    padding: 0;
-}
+style { margin: 0; padding: 0;}
 
 html { 
 	display: table;
@@ -20,17 +17,12 @@ html, body {
 body {
 	text-align: center;
     display: table-cell;
-    color: white;
+    color: yellow;
     padding: 5px;
     font-size: 16px;
 }
 
 a {
-	color: white;
+	color: yellow;
 	text-align: center;
-}
-
-@font-face {
-    font-family: defaultFont;
-    src: url(assets/fonts/FiraCode-VariableFont_wght.ttf);
 }
